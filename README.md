@@ -62,7 +62,7 @@ So sánh các thống kê (max, min, mean, median) của tiền tip theo các y�
  ![image](https://github.com/user-attachments/assets/2713a16e-ed74-4885-9e64-b4d888a6042a)
 
 ## Kết luận:
-=> Tổng thể, phân tích cho thấy thời điểm dùng bữa và tình trạng hút thuốc là những yếu tố ảnh hưởng lớn nhất đến giá trị tiền tip.
+=> Tổng thể, phân tích cho thấy thời điểm dùng bữa và việc rơi vào cuối tuần hay ngày thường là những yếu tố ảnh hưởng lớn nhất đến giá trị tiền tip, trong khi tình trạng hút thuốc có tác động ít nhất.
 
 
 
