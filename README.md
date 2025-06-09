@@ -38,10 +38,11 @@ Dự án này nhằm phân tích hành vi tip của khách hàng tại một nh�
 So sánh các thống kê (max, min, mean, median) của tiền tip theo các yếu tố như người có hút thuốc, giới tính, thời gian dùng bữa, v.v."
 
 ## Kết quả chính:
-- Dinner có xu hướng tip cao hơn lunch
-- Cuối tuần (thứ Bảy và Chủ Nhật) thường có tip cao hơn so với các ngày thường
-- Người không hút thuốc tip nhiều hơn người hút thuốc, với mức tip trung bình và trung vị đều cao hơn.
-- Tip trung bình và trung vị của nam và nữ không chênh lệch quá nhiều, nhưng nam có phân phối trải rộng hơn
-  
+- Smoker vs. Non-Smoker Tipping Behavior
+    - Smokers have slightly higher mean (3.01) and median (3.00) tip values than non-smokers (mean: 2.99, median: 2.74).
+    - However, non-smokers show a higher frequency of tipping in the lower range (1.0–3.0), as seen in the histogram.
+  ![image](https://github.com/user-attachments/assets/df8eaa2a-f821-48ce-acc1-56e640e7de0e)
+
+
 
 
