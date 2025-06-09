@@ -8,14 +8,23 @@ Dự án này nhằm phân tích hành vi tip của khách hàng tại một nh�
   Tips Dataset on GitHub <https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv>
 - Mô tả dữ liệu:
   Dữ liệu bao gồm các thông tin sau:
+  
   id => Mã số dòng dữ liệu
+  
   total_bill => 	Tổng giá trị hóa đơn (USD)
+  
   tip => Tiền tip mà khách để lại (USD)
+  
   sex => 	Giới tính khách hàng (Male / Female)
+  
   smoker => Khách có hút thuốc không (Yes / No)
+  
   day => Ngày trong tuần (Thur, Fri, Sat, Sun)
+  
   time => Thời điểm ăn (Lunch / Dinner)
+  
   size => Số lượng người trong bàn ăn
+  
 - Cách truy cập hoặc tải dữ liệu:
  ```
   import pandas as pd
