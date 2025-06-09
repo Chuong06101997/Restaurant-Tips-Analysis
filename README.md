@@ -42,6 +42,20 @@ So sánh các thống kê (max, min, mean, median) của tiền tip theo các y�
     - Smokers have slightly higher mean (3.01) and median (3.00) tip values than non-smokers (mean: 2.99, median: 2.74).
     - However, non-smokers show a higher frequency of tipping in the lower range (1.0–3.0), as seen in the histogram.
   ![image](https://github.com/user-attachments/assets/df8eaa2a-f821-48ce-acc1-56e640e7de0e)
+- Gender Comparison
+    - Male customers have a marginally higher mean tip compared to female customers.
+    - The distributions of both genders are similar, but the maximum tips are slightly higher in the male group.
+  ![image](https://github.com/user-attachments/assets/13b9b320-4459-4f86-993b-89ea9622fa92)
+- Weekend vs. Weekday
+    - Tips given on weekends (Saturday & Sunday) are generally higher, with a wider distribution and greater median values.
+    - This suggests that customers may tip more generously during weekends.
+      ![image](https://github.com/user-attachments/assets/65422ed7-8aaa-4b34-b939-3862b0a755c9)
+  - Meal Time (Lunch vs. Dinner)
+    - Dinner tips show higher central tendency values and wider distribution, indicating more generous tipping behavior during dinner.
+      ![image](https://github.com/user-attachments/assets/2713a16e-ed74-4885-9e64-b4d888a6042a)
+
+
+
 
 
 
